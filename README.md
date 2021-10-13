@@ -1,4 +1,16 @@
 # resume
 
+<style>
+    .container {
+        padding: 30px
+    }
+</style>
 
-[resume.pdf](https://github.com/ayeshuu/resume/files/7340887/resume.pdf)
+
+<body>
+    <div class="container">
+        <embed src="/resume.pdf" type="application/pdf" width="100%" height="1200px">
+    </div>
+
+
+</body>
