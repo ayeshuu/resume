@@ -21,7 +21,7 @@
 
 <body>
     <div class="container">
-        <embed src="/resume.pdf" type="application/pdf" width="100%" height="1200px">
+        <embed src="/Users/Shared/Previously Relocated Items/Security/ayoosh/html_css/resume.pdf" type="application/pdf" width="100%" height="1200px">
     </div>
 
 
