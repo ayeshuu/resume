@@ -1,3 +1,32 @@
 # resume
 
-<iframe src = "http://docs.google.com/gview?url=file:///Users/ayoosh/Downloads/resume.pdf&embedded=true" style="width 660px; height=640px" frameborder="0"> </iframe> 
+<!DOCTYPE html>
+<html lang="en">
+
+<style>
+    .container {
+        padding: 30px
+    }
+</style>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="this website provides so and so services!" />
+    <title>resume</title>
+
+
+</head>
+
+<body>
+    <div class="container">
+        <embed src="/resume.pdf" type="application/pdf" width="100%" height="1200px">
+    </div>
+
+
+
+
+</body>
+
+</html>
